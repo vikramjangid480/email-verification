@@ -1,4 +1,4 @@
-# A detailed course to undestand nextjs
+# A detailed to undestand nextjs
 
 This long video was designed to give you an indepth understanding about latest nextjs and how it works. 
 
